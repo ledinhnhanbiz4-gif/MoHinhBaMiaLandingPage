@@ -85,7 +85,7 @@ const Index = () => {
                 >
                   <div className="w-40 h-40 bg-white-400 rounded-full flex items-center justify-center shadow-lg overflow-hidden">
                     <img
-                      src="/public/logo.png"
+                      src="/logo.png"
                       alt="Logo"
                       className="w-30 h-30 object-contain"
                     />
